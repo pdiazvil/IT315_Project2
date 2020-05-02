@@ -1,7 +1,7 @@
 {
   "MexicanFood": [
     { "FoodName": "Tacos",
-      "FoodPicture": ,
+      "FoodPicture": "https://github.com/pdiazvil/IT315_Project2/blob/master/tacos.jpg?raw=true",
       "FoodServings": 6,
       "FoodCookTime": "1hr 30min",
       "FoodIngridientList": "2 tablespoons freshly squeezed lime juice\n2 tablespoons canola oil, divided\n3 cloves garlic, minced\n2 teaspoons chili powder\n1 teaspoon ground cumin\n1 teaspoon dried oregano\n1 1/2 pounds skirt steak, cut into 1/2-inch pieces\n12 mini flour tortillas, warmed\n3/4 cup diced red onion\n1/2 cup chopped fresh cilantro leaves\n1 lime, cut into wedges",
@@ -9,7 +9,7 @@
       "FoodURL": "https://ricostacosmoya.net"
     }
     { "FoodName": "Tamales",
-      "FoodPicture": ,
+      "FoodPicture": "https://github.com/pdiazvil/IT315_Project2/blob/master/tamales.jpg?raw=true",
       "FoodServings": 16,
       "FoodCookTime": "4hr",
       "FoodIngridientList": "1 bag dry corn husk hot water, for soaking\n2 roma tomatoes\n½ small white onion\n2 dried guajillo chiles, dried\n2 dried pasilla chiles\n2 cloves garlic\n4 cups water, divided, plus 1 tablespoon\n2 teaspoons salt, plus more to taste\npepper, to taste\n½ tablespoon ground cumin\n2 tablespoons canola oil\n3 lb pork shoulder, cubed\n1 teaspoon baking soda\n1 teaspoon baking powder\n¾ cup lard\n2 lb fresh corn masa\nsalsa verde, for serving",
@@ -17,7 +17,7 @@
       "FoodURL": "https://unclejulios.com/"
     }
     { "FoodName": "Enchiladas",
-      "FoodPicture": ,
+      "FoodPicture": "https://github.com/pdiazvil/IT315_Project2/blob/master/enchiladas.jpg?raw=true",
       "FoodServings": 4,
       "FoodCookTime": "50min",
       "FoodIngridientList": "3/4 lb. ground pork or beef\n1/2 cup chopped onion\n2 cloves garlic, minced\n2 cans (10 oz. each) enchilada sauce, divided\n2 cups (8 oz.) Sargento® Shredded Authentic Mexican Cheese, divided\n1/2 cup chopped cilantro, divided\n8 (6 to 7-inch) flour tortillas",
@@ -25,7 +25,7 @@
       "FoodURL": "https://www.elcharrodalecity.com/"
     }
     { "FoodName": "Quesadilla",
-      "FoodPicture": ,
+      "FoodPicture": "https://github.com/pdiazvil/IT315_Project2/blob/master/quesadilla.jpg?raw=true",
       "FoodServings": 24,
       "FoodCookTime": "20min",
       "FoodIngridientList": "8 (6-inch) flour tortillas\n2 cups (8 oz.) Sargento® Shredded Authentic Mexican Cheese\n1/2 cup chopped cilantro or sliced green onions\n1 Tbsp. canola or vegetable oil, divided\nChili powder\nOptional toppings: Sour cream, salsa, guacamole",
@@ -33,7 +33,7 @@
       "FoodURL": "https://burritohouseva.com/"
     }
     { "FoodName": "Pozole",
-      "FoodPicture": ,
+      "FoodPicture": "https://github.com/pdiazvil/IT315_Project2/blob/master/pozole.jpg?raw=true",
       "FoodServings": 12,
       "FoodCookTime": "1hr 15min",
       "FoodIngridientList": "6 dried guajillo chiles, stems and seeds removed\n6 dried ancho chiles, stems and seeds removed\n1 1/2 cups water\n2 tablespoons olive oil\n1/2 medium white onion, coarsely chopped\n1 clove garlic\n2 cartons (32 oz each) Progresso™ chicken broth (8 cups) \n1 teaspoon salt\n1 teaspoon dried oregano leaves\n1/2 teaspoon dried thyme leaves\n2 bay leaves\n1 sprig fresh parsley\n2 cups shredded cooked chicken\n2 cans (28 oz each) hominy, drained",
